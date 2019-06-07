@@ -13,20 +13,20 @@
   Troco: R$ 3,55
 
   Moedas disponíveis:
-  1 centavo: 20
-  5 centavos: 13
-  10 centavos: 2
-  25 centavos: 22
-  50 centavos: 1
-  1 real: 14
+  * 1 centavo: 20
+  * 5 centavos: 13
+  * 10 centavos: 2
+  * 25 centavos: 22
+  * 50 centavos: 1
+  * 1 real: 14
   
   Moedas a serem devolvidas:
-  1 centavo: 0
-  5 centavos: 1
-  10 centavos: 0
-  25 centavos: 0
-  50 centavos: 1
-  1 real: 3
+  * 1 centavo: 0
+  * 5 centavos: 1
+  * 10 centavos: 0
+  * 25 centavos: 0
+  * 50 centavos: 1
+  * 1 real: 3
  
   Escreva uma função que receba dois parâmetros: 
 
