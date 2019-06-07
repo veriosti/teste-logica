@@ -3,6 +3,8 @@
 &nbsp;&nbsp;Esse é um teste básico de lógica de programação, com um exemplo básico de problema matemático. O objetivo do teste é compreender a maneira como funciona o seu raciocínio lógico, por mais que esteja concorrendo a Back ou Front-End.
   
 &nbsp;&nbsp;Como nosso Stack é basicamente em Javascript (do back-end ao front-end), preferencialmente faça a resolução do mesmo em Javascript. Mas sinta-se a vontade para resolvê-lo em outra linguagem se assim o desejar.
+
+&nbsp;&nbsp;Resolva o teste no seu GitHub (Fork, outro repositório, como preferir) ou no repositório de sua preferência e envie o link pra gente =)
   
   ## Vending Machine
 
