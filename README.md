@@ -1,6 +1,6 @@
 # teste-logica
 
-&nbsp;&nbsp;Esse é um teste básico de lógica de programação, com um exemplo básico de problema matemático. O objetivo do teste é compreender a maneira como funciona o seu raciocínio lógico, por mais que esteja concorrendo a Back ou Front-End.
+&nbsp;&nbsp;Esse é um teste básico de lógica de programação, com um exemplo básico de problema matemático. O objetivo do teste é compreender a maneira como funciona o seu raciocínio lógico, independente que esteja concorrendo a Back ou Front-End.
   
 &nbsp;&nbsp;Como nosso Stack é basicamente em Javascript (do back-end ao front-end), preferencialmente faça a resolução do mesmo em Javascript. Mas sinta-se a vontade para resolvê-lo em outra linguagem se assim o desejar.
 
@@ -8,7 +8,7 @@
   
   ## Vending Machine
 
-&nbsp;&nbsp;Tenho uma vending machine (aquelas máquinas onde você compra doces e refrigerantes) e preciso automatizar o cálculo de troco em moeda para ela. Imagine a seguinte situação: o cliente coloca R$ 5,00 e compra um produto de R$ 1,45. De acordo com as moedas disponíveis na máquina, você precisa dizer quantas moedas de cada valor a máquina precisa devolver ao cliente.
+&nbsp;&nbsp;Tenho uma vending machine (aquelas máquinas onde você compra doces e refrigerantes) e preciso automatizar o cálculo de troco em moeda para ela. Imagine a seguinte situação: o cliente coloca R$ 5,00 e compra um produto de R$ 1,45. De acordo com as moedas disponíveis na máquina, você precisa dizer quantas e quais moedas de cada valor a máquina precisa devolver ao cliente.
 
   ### Cenário exemplo:
 
@@ -46,6 +46,7 @@
   - Documente o que achar necessário na função.
   - Documente os testes realizados como achar melhor.
   - De preferência, use boas práticas da linguagem desejada.
-  - Use ES6 caso faça em Javascript. Caso use outra linguagem justifique o uso de qualquer framework ou biblioteca extra.
+  - Use ES6 caso faça em Javascript.
+  - Caso use outra linguagem ou uma biblioteca extra justifique sua escolha.
   
 Boa sorte!
