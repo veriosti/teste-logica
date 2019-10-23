@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;Esse é um teste básico de lógica de programação, com um exemplo básico de problema matemático. O objetivo do teste é compreender a maneira como funciona o seu raciocínio lógico, independente que esteja concorrendo a Back ou Front-End.
   
-&nbsp;&nbsp;Como nosso Stack é basicamente em Javascript (do back-end ao front-end), preferencialmente faça a resolução do mesmo em Javascript. Mas sinta-se a vontade para resolvê-lo em outra linguagem se assim o desejar.
+&nbsp;&nbsp;Como nosso Stack é basicamente em Javascript (do back-end ao front-end), faça a resolução do mesmo em Javascript.
 
 &nbsp;&nbsp;Resolva o teste no seu GitHub (Fork, outro repositório, como preferir) ou no repositório de sua preferência e envie o link pra gente =)
   
@@ -34,6 +34,8 @@
 
   - O valor do troco a ser devolvido para o cliente.
   - Um array contendo as moedas disponíveis na máquina.
+  
+  Como esses parâmetros serão recebidos fica ao seu critério, mas documente como podemos manipulá-lo para testar a função. Dica: Pense nos edge cases que esse problema pode apresentar. Por exemplo, se a máquina não tem troco nenhum, como a sua função irá indicar esse retorno?
 
   E retorne:
 
@@ -42,11 +44,7 @@
   É desejável que você, ao escrever a função:
 
   - Retorne sempre o menor número de moedas possível.
-  - Trate casos de exceção.
-  - Documente o que achar necessário na função.
-  - Documente os testes realizados como achar melhor.
-  - De preferência, use boas práticas da linguagem desejada.
-  - Use ES6 caso faça em Javascript.
-  - Caso use outra linguagem ou uma biblioteca extra justifique sua escolha.
+  - Crie e documente os testes unitários realizados que achar pertinentes.
+  - Documente as decisões que você precisou tomar para o melhor funcionamento da função.
   
 Boa sorte!
